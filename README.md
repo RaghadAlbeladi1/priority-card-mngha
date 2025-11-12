@@ -15,7 +15,7 @@
   at the National Guard Hospital (MNGHA).
 </p>
 
-## 📱 Screens (Prototype Preview)
+##  Screens (Prototype Preview)
 
 <div align="center">
   <img src="./image/image.png"   width="170" />
