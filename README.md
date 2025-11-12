@@ -16,6 +16,7 @@
 </p>
 
 ##  Screens (Prototype Preview)
+> Mobile app concept for the “Priority for Them” digital card (MNGHA).
 
 <div align="center">
   <img src="./image/image.png"   width="170" />
