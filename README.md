@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <img
-      src="./image/الشؤون_الصحية_للحرس_الوطني.svg_.png"
+      src="./الشؤون_الصحية_للحرس_الوطني.svg_.png"
       width="40"
       style="vertical-align: middle; margin-right: 8px;"
     />
